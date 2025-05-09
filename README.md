@@ -41,7 +41,7 @@ Examples:
 
 Use Case Diagrams show how users interact with the system. They help identify system boundaries and functionalities.
 
-![Use Case Diagram](/WhatsApp Image 2025-05-09 at 16.56.54_e2ee9891.jpg)
+![Use Case Diagram](./alx-booking-uc.png)
 
 ## Acceptance Criteria
 
